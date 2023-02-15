@@ -1,0 +1,43 @@
+.project {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #212228;
+    margin-top: 2px;
+    margin-bottom: 2px;
+  }
+  
+  .project h2 {
+    margin-top: 50px;
+    color: white;
+    font-size: 35px;
+  }
+  .project img {
+    width: 700px;
+    border-radius: 10px;
+  }
+  
+  .project p {
+    font-size: 20px;
+    color: white;
+    margin-left: 5rem;
+    margin-right: 5rem;
+  }
+
+  .project a {
+    font-size: 25px;
+    color: white;
+  }
+  
+  #github {
+    margin-bottom: 20px;
+  }
+  
+  .project svg {
+    font-size: 25px;
+    color: white;
+    align-items: center;
+  }

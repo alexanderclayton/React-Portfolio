@@ -1,0 +1,59 @@
+.home {
+    width: 100%;
+    align-items: center;
+    font-family: "Arial", sans-serif;
+    color: rgb(238, 101, 101);
+    background-color: #212228;
+  }
+
+  .home img {
+    max-height: 200px;
+    background-color: #212228;
+    margin-bottom: -75px;
+  }
+  
+  .about {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #212228;
+    color: #f0f0f0;
+  }
+  
+  .about h2 {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 80px;
+    color: rgb(238, 101, 101);
+    height: 50px;
+  }
+  
+  .about .prompt {
+    width: auto;
+    font-size: 15px;
+  }
+  .prompt svg {
+    font-size: 60px;
+    margin: 5px;
+    color: white;
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .home img {
+      margin-bottom: -25px;
+    }
+
+    .about h2 {
+      font-size: 40px;
+    }
+  
+    .about .prompt {
+      margin-top: 10px;
+      font-size: 20px;
+      width: 80%;
+    }
+  
+  }
