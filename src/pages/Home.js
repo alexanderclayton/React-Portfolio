@@ -5,7 +5,7 @@ import '../styles/Home.css';
 function Home() {
   return (
     <div className="home">
-      <img src={Image6} alt="Picture of my face" />
+      <img src={Image6} />
       <div className="about">
         <h2> Alex Clayton</h2>
         <div className="prompt">
