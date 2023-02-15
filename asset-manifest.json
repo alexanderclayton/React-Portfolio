@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.92dd8e8e.css",
-    "main.js": "/React-Portfolio/static/js/main.af808278.js",
-    "static/js/787.0f49df34.chunk.js": "/React-Portfolio/static/js/787.0f49df34.chunk.js",
-    "static/media/kanye-rest-image.jpg": "/React-Portfolio/static/media/kanye-rest-image.b153e04600b419d7db5d.jpg",
-    "static/media/MyFace.jpg": "/React-Portfolio/static/media/MyFace.00297518606d05d2ac37.jpg",
-    "static/media/group-project-1.jpg": "/React-Portfolio/static/media/group-project-1.0dcc6f03afc37cc5de4b.jpg",
-    "static/media/placeholder-image-4.jpg": "/React-Portfolio/static/media/placeholder-image-4.74bec76887e2e44549c4.jpg",
-    "static/media/first-application.jpg": "/React-Portfolio/static/media/first-application.08fb672ff9e10e2bfe8d.jpg",
-    "static/media/languages-signpost.jpg": "/React-Portfolio/static/media/languages-signpost.0ae1aeeedad9380e0cb5.jpg",
-    "index.html": "/React-Portfolio/index.html",
-    "main.92dd8e8e.css.map": "/React-Portfolio/static/css/main.92dd8e8e.css.map",
-    "main.af808278.js.map": "/React-Portfolio/static/js/main.af808278.js.map",
-    "787.0f49df34.chunk.js.map": "/React-Portfolio/static/js/787.0f49df34.chunk.js.map"
+    "main.css": "/static/css/main.92dd8e8e.css",
+    "main.js": "/static/js/main.32fe8f12.js",
+    "static/js/787.0f49df34.chunk.js": "/static/js/787.0f49df34.chunk.js",
+    "static/media/kanye-rest-image.jpg": "/static/media/kanye-rest-image.b153e04600b419d7db5d.jpg",
+    "static/media/MyFace.jpg": "/static/media/MyFace.00297518606d05d2ac37.jpg",
+    "static/media/group-project-1.jpg": "/static/media/group-project-1.0dcc6f03afc37cc5de4b.jpg",
+    "static/media/placeholder-image-4.jpg": "/static/media/placeholder-image-4.74bec76887e2e44549c4.jpg",
+    "static/media/first-application.jpg": "/static/media/first-application.08fb672ff9e10e2bfe8d.jpg",
+    "static/media/languages-signpost.jpg": "/static/media/languages-signpost.0ae1aeeedad9380e0cb5.jpg",
+    "index.html": "/index.html",
+    "main.92dd8e8e.css.map": "/static/css/main.92dd8e8e.css.map",
+    "main.32fe8f12.js.map": "/static/js/main.32fe8f12.js.map",
+    "787.0f49df34.chunk.js.map": "/static/js/787.0f49df34.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.92dd8e8e.css",
-    "static/js/main.af808278.js"
+    "static/js/main.32fe8f12.js"
   ]
 }
